@@ -1,0 +1,15 @@
+<idea-plugin>
+    <id>com.pawmotovo.new-dark</id>
+    <name>New Dark</name>
+    <vendor url="https://github.com/PawmotOvO">PawmotOvO</vendor>
+
+    <description><![CDATA[
+        A dark editor color scheme for IntelliJ-based IDEs, based on Darcula.
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <bundledColorScheme path="/colors/New Dark.icls"/>
+    </extensions>
+</idea-plugin>
