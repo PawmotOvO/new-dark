@@ -4,7 +4,13 @@
     <vendor url="https://github.com/PawmotOvO">PawmotOvO</vendor>
 
     <description><![CDATA[
-        A dark editor color scheme for IntelliJ-based IDEs, based on Darcula.
+        New Dark is a dark editor color scheme for IntelliJ-based IDEs, based on
+        JetBrains' New Dark theme. It provides a refined palette with carefully
+        chosen colors for keywords, strings, numbers, functions, parameters, and
+        comments, tuned for readability with the new UI.
+
+        Created because the official New Dark theme plugin is not supported in
+        IDE versions 2026.3 and later.
     ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
